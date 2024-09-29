@@ -1,4 +1,5 @@
 /**
+ * @file
  * @brief Calculates sum of two integer values a and b.
  * 
  * @param[in] a a
