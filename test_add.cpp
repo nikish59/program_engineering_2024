@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "my_add.hpp"
+#include "include/my_add.hpp"
 
 TEST(Add, Simple) {
     EXPECT_EQ(my_add(3,3), 6);
